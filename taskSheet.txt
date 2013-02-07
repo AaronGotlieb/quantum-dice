@@ -1,0 +1,19 @@
+This is a task sheet we can check off and update during development. Just state your name. Below your name put your current tasks, each task should be followed by a "-". Upon completion of a task put an 'X' next to the '-' to signify its completion. 
+ex. 
+Quantum-Silicon
+===============
+Laundry - X
+Groceries - X 
+World Domination -
+
+TASK SHEET
+WillJack
+========
+DiceBox - 
+
+z0rk
+====
+player -
+computer-
+choice- 
+
