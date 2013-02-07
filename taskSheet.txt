@@ -15,5 +15,5 @@ z0rk
 ====
 player -
 computer-
-choice- 
+ 
 

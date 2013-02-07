@@ -1,6 +1,7 @@
 A text document dedicated to mapping out our API. 
 
 API
+
 =============
 class Player
 =============
@@ -11,10 +12,12 @@ class Player
 - setters/getters
 - int choice()
 - w/e other func we may need
+
 =============
 class Computer (inherits player)
 =============
-- logic/AI (for later) 
+- logic/AI (for later)
+ 
 =============
 class DiceBox
 =============
@@ -22,18 +25,21 @@ class DiceBox
 - Dice [] 
 - void rollDice(Dice [] a)
 - void removeDice(Dice [] a)
+
 ============
 class Dice (still debating whether this is necessary) 
 ============
 - int value
 - randomizer()?
 - yeah prolly not, we'll see
+
 =============
 class GameMonitor
 =============
 - Player []
 - int numPlayers
 - int diceRemoved
+
 ============
 and more to come, please add ideas and mark changes in commit messages. 
 
